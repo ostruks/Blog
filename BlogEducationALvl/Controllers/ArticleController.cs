@@ -8,10 +8,10 @@ namespace BlogEducationALvl.Controllers
 {
     public class ArticleController : Controller
     {
-        private readonly ArticleService<ArticleBL> _articleService;
+        private readonly ArticleService _articleService;
         public ArticleController()
         {
-            _articleService = new ArticleService<ArticleBL>();
+            _articleService = new ArticleService();
         }
 
         // GET: Article

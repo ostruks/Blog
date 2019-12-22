@@ -1,7 +1,10 @@
-﻿namespace BlogBL.Service
+﻿using BlogBL.BLModels;
+
+namespace BlogBL.Service
 {
-    public interface IGenericService<T> where T : class
+    public interface IGenericService<BLModel>
+        where BLModel : class
     {
-        T GetById(int id);
+        BLModel FindById(int id);
     }
 }

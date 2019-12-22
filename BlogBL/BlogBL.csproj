@@ -50,6 +50,8 @@
     <Compile Include="BLModels\CommentBL.cs" />
     <Compile Include="BLModels\Mapping.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\GenericService.cs" />
+    <Compile Include="Service\IArticleService.cs" />
     <Compile Include="Service\IGenericService.cs" />
   </ItemGroup>
   <ItemGroup>
