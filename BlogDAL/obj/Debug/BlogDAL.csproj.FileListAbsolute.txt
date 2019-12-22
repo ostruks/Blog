@@ -1,0 +1,7 @@
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogDAL\bin\Debug\BlogDAL.dll
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogDAL\bin\Debug\BlogDAL.pdb
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogDAL\bin\Debug\NPoco.dll
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogDAL\obj\Debug\BlogDAL.csprojAssemblyReference.cache
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogDAL\obj\Debug\BlogDAL.csproj.CopyComplete
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogDAL\obj\Debug\BlogDAL.dll
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogDAL\obj\Debug\BlogDAL.pdb

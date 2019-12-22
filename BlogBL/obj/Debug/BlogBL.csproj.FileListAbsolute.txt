@@ -1,0 +1,12 @@
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\bin\Debug\BlogBL.dll
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\bin\Debug\BlogBL.pdb
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\bin\Debug\BlogDAL.dll
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\bin\Debug\NPoco.dll
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\bin\Debug\BlogDAL.pdb
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\obj\Debug\BlogBL.csprojAssemblyReference.cache
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\obj\Debug\BlogBL.csproj.CopyComplete
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\obj\Debug\BlogBL.dll
+e:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\obj\Debug\BlogBL.pdb
+E:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\bin\Debug\AutoMapper.dll
+E:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\bin\Debug\AutoMapper.pdb
+E:\Projects\ALEVEL-Examples\Blog\BlogEducationALvl\BlogBL\bin\Debug\AutoMapper.xml
